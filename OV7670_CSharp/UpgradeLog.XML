@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="serial_p">
+</Property><Property Name="Solution File" Value="C:\Users\MARCELO\Dropbox\serial_p\serial_p.sln">
+</Property><Property Name="Date" Value="sábado, 27 de maio de 2017">
+</Property><Property Name="Time" Value="12:32:55">
+</Property></Properties><Event ErrorLevel="0" Project="Csharp Simple CDC Demo" Source="D:\!Works_MC\!Works\C#\Serial Basic Communication(Microchip)\Csharp Simple CDC Demo\Csharp Simple CDC Demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Csharp Simple CDC Demo" Source="D:\!Works_MC\!Works\C#\Serial Basic Communication(Microchip)\Csharp Simple CDC Demo\Csharp Simple CDC Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Csharp Simple CDC Demo" Source="D:\!Works_MC\!Works\C#\Serial Basic Communication(Microchip)\Csharp Simple CDC Demo\Csharp Simple CDC Demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
